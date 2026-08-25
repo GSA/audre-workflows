@@ -96,13 +96,21 @@ def by_stratum(
         if computed on a common scale; each stratum has its own denominators.
     """
 
-    requested = list(strata) if strata is not None else None
+    if by not in conversations.columns:
+        raise KeyError(f"conversations has no column {by!r}")
+
     allowed = eligible_strata(
         conversations, by, min_users=min_users, min_conversations=min_conversations
     )
+    requested = list(strata) if strata is not None else None
     targets = [value for value in (requested or allowed) if value in allowed]
 
-    skipped = sorted(set(requested or allowed) - set(targets))
+    # Report every stratum present in the data that was excluded, not merely the
+    # ones the caller named. A silently empty skip list would let an analyst
+    # believe the whole organization was covered.
+    present = set(conversations[by].dropna().unique())
+    considered = set(requested) if requested is not None else present
+    skipped = sorted(considered - set(targets))
     frames = []
 
     for value in targets:

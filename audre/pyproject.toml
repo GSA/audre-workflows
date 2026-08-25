@@ -9,6 +9,12 @@ description = "A reproducible, privacy-aware pipeline for turning enterprise Gen
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "CC0-1.0" }
+classifiers = [
+    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
 keywords = [
     "generative-ai",
     "enterprise-telemetry",
