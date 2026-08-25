@@ -1,0 +1,25 @@
+{# Open-vocabulary topic tagging.
+
+   Produces the multi-valued `topic_tag` label kind. Unlike the closed-set
+   taxonomy prompt, tags here are open vocabulary, which is why AUDRE treats
+   topic_tag counts as non-mutually-exclusive and normalizes tags to lower case
+   before aggregation. #}
+### Task:
+Generate {{ min_broad }}-{{ max_broad }} broad tags categorizing the main themes of the conversation below, along with {{ min_specific }}-{{ max_specific }} more specific subtopic tags.
+
+### Guidelines:
+- Start with high-level domains (for example: Science, Technology, Philosophy, Arts, Politics, Business, Health, Sports, Entertainment, Education)
+- Include relevant subfields or subdomains only if they are strongly represented throughout the conversation
+- If the content is shorter than {{ min_messages }} messages or too diverse to characterize, use only ["General"]
+- Do not include organization names, team names, person names, product names, or any other identifying detail in a tag
+- Use the conversation's primary language; default to English if multilingual
+- Prioritize accuracy over specificity
+
+### Output:
+Return ONLY a valid JSON object in this exact format, with no markdown and no preamble:
+{ "tags": ["tag1", "tag2", "tag3"] }
+
+### Conversation:
+<conversation>
+{{ conversation_text }}
+</conversation>
