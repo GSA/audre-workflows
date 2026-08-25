@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "audre"
+version = "0.1.0"
+description = "A reproducible, privacy-aware pipeline for turning enterprise GenAI chat telemetry into context-specific usage representations and candidate workflow hypotheses."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "CC0-1.0" }
+keywords = [
+    "generative-ai",
+    "enterprise-telemetry",
+    "workflow-analysis",
+    "network-analysis",
+    "privacy",
+]
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "networkx>=3.1",
+    "Jinja2>=3.1",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+llm = ["requests>=2.31"]
+plots = ["matplotlib>=3.7"]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+audre = "audre.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+audre = ["prompts/*.jinja", "taxonomies/*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

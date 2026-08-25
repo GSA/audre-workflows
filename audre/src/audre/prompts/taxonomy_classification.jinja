@@ -1,0 +1,52 @@
+{# Closed-set taxonomy classification.
+
+   Generalized from the prompt used in the originating case study. The allowed
+   value lists are rendered from the loaded taxonomy rather than hardcoded, so
+   swapping audre/taxonomies/*.yaml changes the classification scheme without
+   editing this template. #}
+You are a classification engine. Analyze the conversation text below and return a single JSON object with one value for each classification field.
+
+CLASSIFICATION TASK:
+Assign exactly one value per classification field based on the conversation content. Use only values from the allowed lists provided. Do not invent new values.
+
+- Do NOT invent a new value. If nothing fits well, choose the closest match.
+- Classify the work activity represented in the conversation. Do NOT infer the user's job, seniority, or employer.
+- Return ONLY a valid JSON object with no additional text
+- Do not use markdown code tags
+- Do not include preambles, explanations, or phrases like "Possible JSON response"
+
+---
+
+FIELD DEFINITIONS:
+{% for field_name, definition in field_definitions.items() %}
+- "{{ field_name }}" — {{ definition }}
+{%- endfor %}
+
+---
+
+ALLOWED VALUES:
+{% for field_name, allowed_values in fields.items() %}
+{{ field_name }} (choose exactly one):
+{{ allowed_values }}
+{% endfor %}
+---
+
+RULES:
+- Return ONLY a valid JSON object — no markdown, no code fences, no preamble, no explanation
+- Every field is required; do not omit any field
+- All values must be exact string matches from their respective allowed lists
+- If the input is empty or unintelligible, select the closest fitting value for each field
+
+---
+
+OUTPUT STRUCTURE:
+{
+{%- for field_name in fields %}
+  "{{ field_name }}": "One value from the {{ field_name }} allowed list"{% if not loop.last %},{% endif %}
+{%- endfor %}
+}
+
+---
+
+CONVERSATION TEXT:
+{{ conversation_text }}

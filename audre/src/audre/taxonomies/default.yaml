@@ -1,0 +1,104 @@
+name: default
+description: >-
+  Default closed-set taxonomy for enterprise GenAI conversation labeling.
+  `work_activity` and `occupation_group` follow published occupational
+  classifications so that platform-specific topic language can be translated
+  into a standardized vocabulary for describing work. `request_topic` is a
+  platform-level taxonomy of what the user asked the system to do.
+
+  Swap this file to localize. Any YAML with the same shape works, and the
+  prompt template renders whichever lists it finds here, so no prompt editing
+  is required. Replace it when the published taxonomies do not fit your setting,
+  or when naming a national classification would identify the organization
+  under blind review.
+
+  Assignments describe work activities represented in a conversation. They do
+  NOT identify a user's occupation, grade, or official responsibilities.
+source: >-
+  work_activity: O*NET generalized work activities. occupation_group: Standard
+  Occupational Classification major groups. request_topic: authored for this
+  pipeline.
+
+fields:
+  work_activity:
+    - Analyzing Data or Information
+    - Assisting and Caring for Others
+    - Coaching and Developing Others
+    - Communicating with People Outside the Organization
+    - Communicating with Supervisors, Peers, or Subordinates
+    - Developing Objectives and Strategies
+    - Documenting/Recording Information
+    - Establishing and Maintaining Interpersonal Relationships
+    - Estimating the Quantifiable Characteristics of Products, Events, or Information
+    - Evaluating Information to Determine Compliance with Standards
+    - Getting Information
+    - Guiding, Directing, and Motivating Subordinates
+    - Handling and Moving Objects
+    - Identifying Objects, Actions, and Events
+    - Inspecting Equipment, Structures, or Materials
+    - Interpreting the Meaning of Information for Others
+    - Judging the Qualities of Objects, Services, or People
+    - Making Decisions and Solving Problems
+    - Monitoring Processes, Materials, or Surroundings
+    - Monitoring and Controlling Resources
+    - Organizing, Planning, and Prioritizing Work
+    - Performing Administrative Activities
+    - Performing General Physical Activities
+    - Performing for or Working Directly with the Public
+    - Processing Information
+    - Providing Consultation and Advice to Others
+    - Repairing and Maintaining Mechanical Equipment
+    - Resolving Conflicts and Negotiating with Others
+    - Scheduling Work and Activities
+    - Selling or Influencing Others
+    - Staffing Organizational Units
+    - Thinking Creatively
+    - Training and Teaching Others
+    - Updating and Using Relevant Knowledge
+    - Working with Computers
+
+  request_topic:
+    - Business Process & Operations
+    - Companionship & General Conversation
+    - Compliance & Regulatory
+    - Content Creation & Copywriting
+    - Conversation & Meeting Intelligence
+    - Customer Support & Service Operations
+    - Cybersecurity & Threat Detection
+    - Data Analysis & Business Intelligence
+    - DevOps & Infrastructure Operations
+    - Document Processing & Extraction
+    - Education & Learning
+    - Existential, Relational, and Emotional Support
+    - Hobbies & Lifestyle
+    - Knowledge Retrieval & Enterprise Search
+    - Other / Unclear
+    - Personal AI Assistant
+    - Research & Intelligence
+    - Sales & Revenue Operations
+    - Software Development
+    - Trust & Safety / Platform Integrity
+
+  occupation_group:
+    - Architecture and Engineering
+    - Arts, Design, Entertainment, Sports, and Media
+    - Building and Grounds Cleaning and Maintenance
+    - Business and Financial Operations
+    - Community and Social Service
+    - Computer and Mathematical
+    - Construction and Extraction
+    - Educational Instruction and Library
+    - Farming, Fishing, and Forestry
+    - Food Preparation and Serving Related
+    - Healthcare Practitioners and Technical
+    - Healthcare Support
+    - Installation, Maintenance, and Repair
+    - Legal
+    - Life, Physical, and Social Science
+    - Management
+    - Office and Administrative Support
+    - Personal Care and Service
+    - Production
+    - Protective Service
+    - Sales and Related
+    - Transportation and Material Moving

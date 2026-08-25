@@ -1,0 +1,27 @@
+{# Short descriptive use-case title.
+
+   Titles are useful for qualitative review of what a cluster or transition
+   actually contains. They are free text derived from conversation content, so
+   AUDRE treats them as content-bearing: they are never published, never used in
+   an aggregate, and are excluded by audre.privacy.deidentify. #}
+Create a descriptive use case title that captures the main purpose or objective of this conversation. The title should be specific enough to clearly indicate what the conversation was about, while being concise and professional.
+
+Generate an original title based on the conversation content — do not simply select from the examples below. The examples are provided only to show the expected style and format:
+
+{{ examples }}
+
+Requirements:
+- Generate a NEW title that reflects the actual conversation content
+- Use title case formatting
+- Keep it concise (typically 2-4 words)
+- Make it descriptive of the specific task or topic discussed
+- Do NOT include person names, team names, organization names, system names, file names, or any other identifying detail
+- Return ONLY a valid JSON object with no additional text
+- Do not use markdown code tags
+- Do not include preambles, explanations, or phrases like "Possible JSON response"
+
+Your response must be a JSON object with this exact structure:
+{"use_case": "Your Generated Title Here"}
+
+CONVERSATION:
+{{ conversation_text }}
