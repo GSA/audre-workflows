@@ -27,9 +27,3 @@ unambiguously public domain.
 You may use, modify, and redistribute this code, including commercially, without
 permission and without attribution. No trademark or patent rights are waived, and
 the work is provided as-is without warranty.
-
-## Citing this work
-
-Attribution is not required by the license, but is appreciated for academic
-reuse. This code accompanies a methods contribution submitted to a NeurIPS
-workshop; citation details will be added once the submission status is resolved.
