@@ -13,3 +13,6 @@ AUDRE is intended for descriptive measurement and evaluation prioritization. It 
 - Isabel (Izzy) Metzger (isabel.metzger@gsa.gov), GSA Lead AI Scientist
 - Zachary Whitman (zach.whitman@gsa.gov), GSA Chief AI Officer/ Chief Data Officer
 - Richard Speidel (richard.speidel@gsa.gov), GSA Chief Privacy Officer / Deputy Chief Data Officer
+
+## License
+CC0 1.0 Universal — public domain
