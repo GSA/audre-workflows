@@ -12,6 +12,7 @@
 
 suppressPackageStartupMessages({
     library(tidyverse)
+    library(rlang)
     library(scales)
     library(igraph)
     library(ggraph)
