@@ -1,6 +1,4 @@
-# AUDRE
-
-### Analyzing Enterprise GenAI Use Beyond Usage Counts
+## audre-workflows
 
 **AUDRE**—**Analyzing Usage, Depth, Resource Intensity, and Engagement**—is an open-source research toolkit for understanding how generative AI is used across organizations.
 
@@ -11,7 +9,7 @@ The resulting analyses help organizations move from simple adoption counts towar
 AUDRE is intended for descriptive measurement and evaluation prioritization. It does not treat platform telemetry as direct evidence of productivity, employee performance, task completion, cost savings, causality, or return on investment. The framework distinguishes between activity recorded by a platform, labels assigned analytically, relationships derived from those records, candidate workflows inferred from recurring patterns, and outcomes that must be measured independently.
 
 # points of contact
-- Perla Molina (perlam@stanford.edu)
-- Isabel (Izzy) Metzger (isabel.metzger@gsa.gov)
-- Zachary Whitman (zach.whitman@gsa.gov)
-- Richard Speidel (richard.speidel@gsa.gov)
+- Perla Molina (perlam@stanford.edu), Stanford University Biomedical Data Science PhD Student
+- Isabel (Izzy) Metzger (isabel.metzger@gsa.gov), GSA Lead AI Scientist
+- Zachary Whitman (zach.whitman@gsa.gov), GSA Chief AI Officer/ Chief Data Officer
+- Richard Speidel (richard.speidel@gsa.gov), GSA Chief Privacy Officer / Deputy Chief Data Officer
