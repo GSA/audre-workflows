@@ -33,9 +33,3 @@ the work is provided as-is without warranty.
 Attribution is not required by the license, but is appreciated for academic
 reuse. This code accompanies a methods contribution submitted to a NeurIPS
 workshop; citation details will be added once the submission status is resolved.
-
-**If you are preparing a double-blind submission that points to this repository,
-do not link it directly.** This repository is public, sits under an identifiable
-organization, and the contacts above name individuals and affiliations. Use an
-anonymized mirror for review and swap in the real link for the camera-ready
-version.
