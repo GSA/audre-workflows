@@ -1,0 +1,79 @@
+name: neutral
+description: >-
+  Jurisdiction-neutral taxonomy. Structurally equivalent to `default.yaml` but
+  named without reference to any national classification system.
+
+  `default.yaml` is the recommended choice: mapping to a published occupational
+  classification is what lets platform-specific topic language be compared with
+  external descriptions of work, and that comparability is the main reason to
+  map at all.
+
+  Use this file instead when the published classifications do not describe the
+  setting well, when a coarser scheme is wanted, or when a national taxonomy
+  would be out of place for the organization being analyzed.
+
+  Categories are coarser than `default.yaml` on purpose. Collapsing rarely used
+  distinctions reduces the number of small cells that suppression would remove
+  anyway, which usually yields more reportable rows rather than fewer.
+
+  Swap between taxonomies without editing any prompt:
+
+      from audre.labeling import LLMLabeler, Taxonomy
+      labeler = LLMLabeler(taxonomy=Taxonomy.load("neutral.yaml"))
+
+  Assignments describe work activities represented in a conversation. They do
+  NOT identify a user's occupation, grade, or official responsibilities.
+source: authored for this pipeline; not derived from any national classification.
+
+fields:
+  work_activity:
+    - Analyzing information
+    - Building or maintaining software
+    - Checking work against rules or standards
+    - Coordinating with colleagues
+    - Deciding between options
+    - Drafting written material
+    - Extracting information from documents
+    - Learning or explaining a subject
+    - Managing resources or budgets
+    - Negotiating or resolving disagreement
+    - Operating or troubleshooting systems
+    - Organizing and prioritizing work
+    - Preparing summaries or reports
+    - Producing creative material
+    - Recording or documenting information
+    - Reviewing external communication
+    - Searching for information
+    - Supervising or developing others
+    - Supporting people directly
+    - Translating information for an audience
+
+  request_topic:
+    - Administrative support
+    - Communication and writing
+    - Data analysis and reporting
+    - Document processing
+    - Information retrieval
+    - Learning and training
+    - Operations and process
+    - Other or unclear
+    - Personal assistance
+    - Planning and strategy
+    - Research and synthesis
+    - Rules and compliance
+    - Security operations
+    - Software and infrastructure
+
+  occupation_group:
+    - Administrative and clerical
+    - Business and finance
+    - Communications and media
+    - Engineering and technical
+    - Facilities and operations
+    - Legal and compliance
+    - Management and leadership
+    - Other or unclear
+    - Research and analysis
+    - Service delivery
+    - Technology and computing
+    - Training and education

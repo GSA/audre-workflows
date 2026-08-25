@@ -139,7 +139,15 @@ def adoption_over_time(
         raise KeyError("conversations must contain 'created_at'")
 
     working = conversations.dropna(subset=["created_at"]).copy()
-    working["period"] = working["created_at"].dt.to_period(freq).dt.start_time
+    # Timestamps are UTC by schema. Periods are computed after dropping the
+    # offset because period arithmetic is not timezone-aware; the result is
+    # therefore a UTC period boundary, which is what makes counts comparable
+    # across users in different locations.
+    working["period"] = (
+        working["created_at"].dt.tz_convert("UTC").dt.tz_localize(None)
+        .dt.to_period(freq)
+        .dt.start_time
+    )
 
     group_columns = ["period"] + ([by] if by else [])
     out = (
