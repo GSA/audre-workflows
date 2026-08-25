@@ -8,7 +8,7 @@ The resulting analyses help organizations move from simple adoption counts towar
 
 AUDRE is intended for descriptive measurement and evaluation prioritization. It does not treat platform telemetry as direct evidence of productivity, employee performance, task completion, cost savings, causality, or return on investment. The framework distinguishes between activity recorded by a platform, labels assigned analytically, relationships derived from those records, candidate workflows inferred from recurring patterns, and outcomes that must be measured independently.
 
-# points of contact
+# contributors
 - Perla Molina (perlam@stanford.edu), Stanford University Biomedical Data Science PhD Student
 - Isabel (Izzy) Metzger (isabel.metzger@gsa.gov), GSA Lead AI Scientist
 - Zachary Whitman (zach.whitman@gsa.gov), GSA Chief AI Officer/ Chief Data Officer
