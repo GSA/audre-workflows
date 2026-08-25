@@ -216,4 +216,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-staging-data-playground/*
+
+# ==========================================================
+# Private source material (case-study code and organizational data).
+# These folders are the internal origin of the open-source `audre/`
+# package and MUST NOT be published. Only `audre/` is tracked.
+# ==========================================================
+workflow_analysis_playaround/
+topic_modeling/
+usai_consoel_data_pipeline_scripts/
+perla_code_to_share/
+staging-data-playaround/
+.DS_Store
+
+# Archives and organizational data extracts
+*.zip
+*.xlsx
+*.jsonl
+processed_data/
+outputs/
+tags_transition_tables/
+
+# Generated synthetic datasets and figures are reproducible from a seed,
+# so they are regenerated rather than committed.
+audre/examples/output/
+topic_modeling
+usai_consoel_data_pipeline_scripts
