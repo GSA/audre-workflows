@@ -1,0 +1,1184 @@
+conversation_id,label_kind,label_value,label_source
+c00001,topic_tag,software development,fixture
+c00001,work_activity,Working with Computers,fixture
+c00002,topic_tag,documentation,fixture
+c00002,topic_tag,infrastructure,fixture
+c00002,work_activity,Documenting/Recording Information,fixture
+c00003,topic_tag,software development,fixture
+c00003,work_activity,Working with Computers,fixture
+c00004,topic_tag,software development,fixture
+c00004,work_activity,Working with Computers,fixture
+c00005,topic_tag,documentation,fixture
+c00005,topic_tag,software development,fixture
+c00005,work_activity,Documenting/Recording Information,fixture
+c00006,topic_tag,software development,fixture
+c00006,work_activity,Working with Computers,fixture
+c00007,topic_tag,documentation,fixture
+c00007,work_activity,Documenting/Recording Information,fixture
+c00008,topic_tag,documentation,fixture
+c00008,work_activity,Documenting/Recording Information,fixture
+c00009,topic_tag,software development,fixture
+c00009,topic_tag,infrastructure,fixture
+c00009,work_activity,Working with Computers,fixture
+c00010,topic_tag,documentation,fixture
+c00010,work_activity,Documenting/Recording Information,fixture
+c00011,topic_tag,software development,fixture
+c00011,work_activity,Working with Computers,fixture
+c00012,topic_tag,documentation,fixture
+c00012,work_activity,Documenting/Recording Information,fixture
+c00013,topic_tag,documentation,fixture
+c00013,work_activity,Documenting/Recording Information,fixture
+c00014,topic_tag,software development,fixture
+c00014,work_activity,Working with Computers,fixture
+c00015,topic_tag,documentation,fixture
+c00015,work_activity,Documenting/Recording Information,fixture
+c00016,topic_tag,software development,fixture
+c00016,work_activity,Working with Computers,fixture
+c00017,topic_tag,documentation,fixture
+c00017,work_activity,Documenting/Recording Information,fixture
+c00018,topic_tag,infrastructure,fixture
+c00018,work_activity,Working with Computers,fixture
+c00019,topic_tag,software development,fixture
+c00019,work_activity,Working with Computers,fixture
+c00020,topic_tag,documentation,fixture
+c00020,work_activity,Documenting/Recording Information,fixture
+c00021,topic_tag,software development,fixture
+c00021,work_activity,Working with Computers,fixture
+c00022,topic_tag,documentation,fixture
+c00022,topic_tag,software development,fixture
+c00022,work_activity,Documenting/Recording Information,fixture
+c00023,topic_tag,infrastructure,fixture
+c00023,work_activity,Working with Computers,fixture
+c00024,topic_tag,software development,fixture
+c00024,work_activity,Working with Computers,fixture
+c00025,topic_tag,documentation,fixture
+c00025,work_activity,Documenting/Recording Information,fixture
+c00026,topic_tag,software development,fixture
+c00026,work_activity,Working with Computers,fixture
+c00027,topic_tag,software development,fixture
+c00027,topic_tag,documentation,fixture
+c00027,work_activity,Working with Computers,fixture
+c00028,topic_tag,documentation,fixture
+c00028,topic_tag,software development,fixture
+c00028,work_activity,Documenting/Recording Information,fixture
+c00029,topic_tag,software development,fixture
+c00029,topic_tag,documentation,fixture
+c00029,work_activity,Working with Computers,fixture
+c00030,topic_tag,documentation,fixture
+c00030,work_activity,Documenting/Recording Information,fixture
+c00031,topic_tag,infrastructure,fixture
+c00031,work_activity,Working with Computers,fixture
+c00032,topic_tag,software development,fixture
+c00032,topic_tag,infrastructure,fixture
+c00032,work_activity,Working with Computers,fixture
+c00033,topic_tag,documentation,fixture
+c00033,work_activity,Documenting/Recording Information,fixture
+c00034,topic_tag,software development,fixture
+c00034,work_activity,Working with Computers,fixture
+c00035,topic_tag,documentation,fixture
+c00035,topic_tag,infrastructure,fixture
+c00035,work_activity,Documenting/Recording Information,fixture
+c00036,topic_tag,infrastructure,fixture
+c00036,topic_tag,documentation,fixture
+c00036,work_activity,Working with Computers,fixture
+c00037,topic_tag,software development,fixture
+c00037,work_activity,Working with Computers,fixture
+c00038,topic_tag,documentation,fixture
+c00038,work_activity,Documenting/Recording Information,fixture
+c00039,topic_tag,software development,fixture
+c00039,work_activity,Working with Computers,fixture
+c00040,topic_tag,documentation,fixture
+c00040,topic_tag,infrastructure,fixture
+c00040,work_activity,Documenting/Recording Information,fixture
+c00041,topic_tag,infrastructure,fixture
+c00041,topic_tag,documentation,fixture
+c00041,work_activity,Working with Computers,fixture
+c00042,topic_tag,software development,fixture
+c00042,work_activity,Working with Computers,fixture
+c00043,topic_tag,documentation,fixture
+c00043,work_activity,Documenting/Recording Information,fixture
+c00044,topic_tag,software development,fixture
+c00044,topic_tag,infrastructure,fixture
+c00044,work_activity,Working with Computers,fixture
+c00045,topic_tag,documentation,fixture
+c00045,topic_tag,infrastructure,fixture
+c00045,work_activity,Documenting/Recording Information,fixture
+c00046,topic_tag,documentation,fixture
+c00046,work_activity,Documenting/Recording Information,fixture
+c00047,topic_tag,software development,fixture
+c00047,work_activity,Working with Computers,fixture
+c00048,topic_tag,documentation,fixture
+c00048,work_activity,Documenting/Recording Information,fixture
+c00049,topic_tag,software development,fixture
+c00049,topic_tag,documentation,fixture
+c00049,work_activity,Working with Computers,fixture
+c00050,topic_tag,documentation,fixture
+c00050,topic_tag,infrastructure,fixture
+c00050,work_activity,Documenting/Recording Information,fixture
+c00051,topic_tag,infrastructure,fixture
+c00051,work_activity,Working with Computers,fixture
+c00052,topic_tag,software development,fixture
+c00052,work_activity,Working with Computers,fixture
+c00053,topic_tag,documentation,fixture
+c00053,work_activity,Documenting/Recording Information,fixture
+c00054,topic_tag,software development,fixture
+c00054,topic_tag,infrastructure,fixture
+c00054,work_activity,Working with Computers,fixture
+c00055,topic_tag,documentation,fixture
+c00055,topic_tag,infrastructure,fixture
+c00055,work_activity,Documenting/Recording Information,fixture
+c00056,topic_tag,software development,fixture
+c00056,work_activity,Working with Computers,fixture
+c00057,topic_tag,software development,fixture
+c00057,topic_tag,documentation,fixture
+c00057,work_activity,Working with Computers,fixture
+c00058,topic_tag,documentation,fixture
+c00058,work_activity,Documenting/Recording Information,fixture
+c00059,topic_tag,software development,fixture
+c00059,work_activity,Working with Computers,fixture
+c00060,topic_tag,software development,fixture
+c00060,topic_tag,infrastructure,fixture
+c00060,work_activity,Working with Computers,fixture
+c00061,topic_tag,documentation,fixture
+c00061,work_activity,Documenting/Recording Information,fixture
+c00062,topic_tag,software development,fixture
+c00062,work_activity,Working with Computers,fixture
+c00063,topic_tag,documentation,fixture
+c00063,work_activity,Documenting/Recording Information,fixture
+c00064,topic_tag,infrastructure,fixture
+c00064,topic_tag,documentation,fixture
+c00064,work_activity,Working with Computers,fixture
+c00065,topic_tag,software development,fixture
+c00065,topic_tag,documentation,fixture
+c00065,work_activity,Working with Computers,fixture
+c00066,topic_tag,documentation,fixture
+c00066,topic_tag,infrastructure,fixture
+c00066,work_activity,Documenting/Recording Information,fixture
+c00067,topic_tag,software development,fixture
+c00067,work_activity,Working with Computers,fixture
+c00068,topic_tag,documentation,fixture
+c00068,topic_tag,infrastructure,fixture
+c00068,work_activity,Documenting/Recording Information,fixture
+c00069,topic_tag,documentation,fixture
+c00069,work_activity,Documenting/Recording Information,fixture
+c00070,topic_tag,software development,fixture
+c00070,topic_tag,documentation,fixture
+c00070,work_activity,Working with Computers,fixture
+c00071,topic_tag,documentation,fixture
+c00071,topic_tag,software development,fixture
+c00071,work_activity,Documenting/Recording Information,fixture
+c00072,topic_tag,software development,fixture
+c00072,work_activity,Working with Computers,fixture
+c00073,topic_tag,documentation,fixture
+c00073,work_activity,Documenting/Recording Information,fixture
+c00074,topic_tag,software development,fixture
+c00074,work_activity,Working with Computers,fixture
+c00075,topic_tag,software development,fixture
+c00075,work_activity,Working with Computers,fixture
+c00076,topic_tag,documentation,fixture
+c00076,work_activity,Documenting/Recording Information,fixture
+c00077,topic_tag,software development,fixture
+c00077,work_activity,Working with Computers,fixture
+c00078,topic_tag,documentation,fixture
+c00078,topic_tag,software development,fixture
+c00078,work_activity,Documenting/Recording Information,fixture
+c00079,topic_tag,infrastructure,fixture
+c00079,topic_tag,software development,fixture
+c00079,work_activity,Working with Computers,fixture
+c00080,topic_tag,software development,fixture
+c00080,work_activity,Working with Computers,fixture
+c00081,topic_tag,documentation,fixture
+c00081,work_activity,Documenting/Recording Information,fixture
+c00082,topic_tag,documentation,fixture
+c00082,work_activity,Documenting/Recording Information,fixture
+c00083,topic_tag,software development,fixture
+c00083,work_activity,Working with Computers,fixture
+c00084,topic_tag,documentation,fixture
+c00084,work_activity,Documenting/Recording Information,fixture
+c00085,topic_tag,software development,fixture
+c00085,topic_tag,infrastructure,fixture
+c00085,work_activity,Working with Computers,fixture
+c00086,topic_tag,documentation,fixture
+c00086,work_activity,Documenting/Recording Information,fixture
+c00087,topic_tag,software development,fixture
+c00087,work_activity,Working with Computers,fixture
+c00088,topic_tag,software development,fixture
+c00088,work_activity,Working with Computers,fixture
+c00089,topic_tag,documentation,fixture
+c00089,work_activity,Documenting/Recording Information,fixture
+c00090,topic_tag,software development,fixture
+c00090,topic_tag,infrastructure,fixture
+c00090,work_activity,Working with Computers,fixture
+c00091,topic_tag,documentation,fixture
+c00091,work_activity,Documenting/Recording Information,fixture
+c00092,topic_tag,software development,fixture
+c00092,work_activity,Working with Computers,fixture
+c00093,topic_tag,software development,fixture
+c00093,work_activity,Working with Computers,fixture
+c00094,topic_tag,documentation,fixture
+c00094,topic_tag,infrastructure,fixture
+c00094,work_activity,Documenting/Recording Information,fixture
+c00095,topic_tag,software development,fixture
+c00095,work_activity,Working with Computers,fixture
+c00096,topic_tag,documentation,fixture
+c00096,work_activity,Documenting/Recording Information,fixture
+c00097,topic_tag,documentation,fixture
+c00097,work_activity,Documenting/Recording Information,fixture
+c00098,topic_tag,software development,fixture
+c00098,work_activity,Working with Computers,fixture
+c00099,topic_tag,documentation,fixture
+c00099,work_activity,Documenting/Recording Information,fixture
+c00100,topic_tag,software development,fixture
+c00100,work_activity,Working with Computers,fixture
+c00101,topic_tag,documentation,fixture
+c00101,topic_tag,infrastructure,fixture
+c00101,work_activity,Documenting/Recording Information,fixture
+c00102,topic_tag,documentation,fixture
+c00102,topic_tag,infrastructure,fixture
+c00102,work_activity,Documenting/Recording Information,fixture
+c00103,topic_tag,software development,fixture
+c00103,work_activity,Working with Computers,fixture
+c00104,topic_tag,documentation,fixture
+c00104,work_activity,Documenting/Recording Information,fixture
+c00105,topic_tag,software development,fixture
+c00105,work_activity,Working with Computers,fixture
+c00106,topic_tag,documentation,fixture
+c00106,topic_tag,infrastructure,fixture
+c00106,work_activity,Documenting/Recording Information,fixture
+c00107,topic_tag,software development,fixture
+c00107,work_activity,Working with Computers,fixture
+c00108,topic_tag,software development,fixture
+c00108,work_activity,Working with Computers,fixture
+c00109,topic_tag,documentation,fixture
+c00109,work_activity,Documenting/Recording Information,fixture
+c00110,topic_tag,software development,fixture
+c00110,topic_tag,infrastructure,fixture
+c00110,work_activity,Working with Computers,fixture
+c00111,topic_tag,documentation,fixture
+c00111,work_activity,Documenting/Recording Information,fixture
+c00112,topic_tag,software development,fixture
+c00112,topic_tag,documentation,fixture
+c00112,work_activity,Working with Computers,fixture
+c00113,topic_tag,software development,fixture
+c00113,work_activity,Working with Computers,fixture
+c00114,topic_tag,documentation,fixture
+c00114,topic_tag,infrastructure,fixture
+c00114,work_activity,Documenting/Recording Information,fixture
+c00115,topic_tag,documentation,fixture
+c00115,topic_tag,software development,fixture
+c00115,work_activity,Documenting/Recording Information,fixture
+c00116,topic_tag,software development,fixture
+c00116,work_activity,Working with Computers,fixture
+c00117,topic_tag,documentation,fixture
+c00117,topic_tag,software development,fixture
+c00117,work_activity,Documenting/Recording Information,fixture
+c00118,topic_tag,software development,fixture
+c00118,work_activity,Working with Computers,fixture
+c00119,topic_tag,documentation,fixture
+c00119,work_activity,Documenting/Recording Information,fixture
+c00120,topic_tag,infrastructure,fixture
+c00120,work_activity,Working with Computers,fixture
+c00121,topic_tag,software development,fixture
+c00121,work_activity,Working with Computers,fixture
+c00122,topic_tag,documentation,fixture
+c00122,work_activity,Documenting/Recording Information,fixture
+c00123,topic_tag,software development,fixture
+c00123,work_activity,Working with Computers,fixture
+c00124,topic_tag,documentation,fixture
+c00124,work_activity,Documenting/Recording Information,fixture
+c00125,topic_tag,documentation,fixture
+c00125,work_activity,Documenting/Recording Information,fixture
+c00126,topic_tag,software development,fixture
+c00126,topic_tag,documentation,fixture
+c00126,work_activity,Working with Computers,fixture
+c00127,topic_tag,documentation,fixture
+c00127,work_activity,Documenting/Recording Information,fixture
+c00128,topic_tag,software development,fixture
+c00128,work_activity,Working with Computers,fixture
+c00129,topic_tag,documentation,fixture
+c00129,work_activity,Documenting/Recording Information,fixture
+c00130,topic_tag,documentation,fixture
+c00130,work_activity,Documenting/Recording Information,fixture
+c00131,topic_tag,software development,fixture
+c00131,work_activity,Working with Computers,fixture
+c00132,topic_tag,documentation,fixture
+c00132,work_activity,Documenting/Recording Information,fixture
+c00133,topic_tag,software development,fixture
+c00133,work_activity,Working with Computers,fixture
+c00134,topic_tag,documentation,fixture
+c00134,topic_tag,software development,fixture
+c00134,work_activity,Documenting/Recording Information,fixture
+c00135,topic_tag,infrastructure,fixture
+c00135,work_activity,Working with Computers,fixture
+c00136,topic_tag,software development,fixture
+c00136,topic_tag,infrastructure,fixture
+c00136,work_activity,Working with Computers,fixture
+c00137,topic_tag,documentation,fixture
+c00137,work_activity,Documenting/Recording Information,fixture
+c00138,topic_tag,documentation,fixture
+c00138,topic_tag,software development,fixture
+c00138,work_activity,Documenting/Recording Information,fixture
+c00139,topic_tag,software development,fixture
+c00139,work_activity,Working with Computers,fixture
+c00140,topic_tag,documentation,fixture
+c00140,work_activity,Documenting/Recording Information,fixture
+c00141,topic_tag,software development,fixture
+c00141,topic_tag,infrastructure,fixture
+c00141,work_activity,Working with Computers,fixture
+c00142,topic_tag,documentation,fixture
+c00142,work_activity,Documenting/Recording Information,fixture
+c00143,topic_tag,software development,fixture
+c00143,topic_tag,infrastructure,fixture
+c00143,work_activity,Working with Computers,fixture
+c00144,topic_tag,software development,fixture
+c00144,work_activity,Working with Computers,fixture
+c00145,topic_tag,documentation,fixture
+c00145,work_activity,Documenting/Recording Information,fixture
+c00146,topic_tag,software development,fixture
+c00146,topic_tag,infrastructure,fixture
+c00146,work_activity,Working with Computers,fixture
+c00147,topic_tag,documentation,fixture
+c00147,topic_tag,infrastructure,fixture
+c00147,work_activity,Documenting/Recording Information,fixture
+c00148,topic_tag,documentation,fixture
+c00148,work_activity,Documenting/Recording Information,fixture
+c00149,topic_tag,software development,fixture
+c00149,work_activity,Working with Computers,fixture
+c00150,topic_tag,documentation,fixture
+c00150,work_activity,Documenting/Recording Information,fixture
+c00151,topic_tag,software development,fixture
+c00151,topic_tag,infrastructure,fixture
+c00151,work_activity,Working with Computers,fixture
+c00152,topic_tag,documentation,fixture
+c00152,work_activity,Documenting/Recording Information,fixture
+c00153,topic_tag,infrastructure,fixture
+c00153,work_activity,Working with Computers,fixture
+c00154,topic_tag,software development,fixture
+c00154,work_activity,Working with Computers,fixture
+c00155,topic_tag,documentation,fixture
+c00155,work_activity,Documenting/Recording Information,fixture
+c00156,topic_tag,software development,fixture
+c00156,work_activity,Working with Computers,fixture
+c00157,topic_tag,documentation,fixture
+c00157,work_activity,Documenting/Recording Information,fixture
+c00158,topic_tag,software development,fixture
+c00158,work_activity,Working with Computers,fixture
+c00159,topic_tag,software development,fixture
+c00159,work_activity,Working with Computers,fixture
+c00160,topic_tag,documentation,fixture
+c00160,work_activity,Documenting/Recording Information,fixture
+c00161,topic_tag,software development,fixture
+c00161,work_activity,Working with Computers,fixture
+c00162,topic_tag,documentation,fixture
+c00162,work_activity,Documenting/Recording Information,fixture
+c00163,topic_tag,documentation,fixture
+c00163,work_activity,Documenting/Recording Information,fixture
+c00164,topic_tag,software development,fixture
+c00164,topic_tag,documentation,fixture
+c00164,work_activity,Working with Computers,fixture
+c00165,topic_tag,documentation,fixture
+c00165,work_activity,Documenting/Recording Information,fixture
+c00166,topic_tag,software development,fixture
+c00166,work_activity,Working with Computers,fixture
+c00167,topic_tag,documentation,fixture
+c00167,work_activity,Documenting/Recording Information,fixture
+c00168,topic_tag,software development,fixture
+c00168,topic_tag,infrastructure,fixture
+c00168,work_activity,Working with Computers,fixture
+c00169,topic_tag,procurement,fixture
+c00169,work_activity,Monitoring and Controlling Resources,fixture
+c00170,topic_tag,contract management,fixture
+c00170,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00171,topic_tag,budget,fixture
+c00171,topic_tag,contract management,fixture
+c00171,work_activity,Monitoring and Controlling Resources,fixture
+c00172,topic_tag,procurement,fixture
+c00172,topic_tag,contract management,fixture
+c00172,work_activity,Monitoring and Controlling Resources,fixture
+c00173,topic_tag,contract management,fixture
+c00173,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00174,topic_tag,procurement,fixture
+c00174,work_activity,Monitoring and Controlling Resources,fixture
+c00175,topic_tag,contract management,fixture
+c00175,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00176,topic_tag,budget,fixture
+c00176,work_activity,Monitoring and Controlling Resources,fixture
+c00177,topic_tag,procurement,fixture
+c00177,topic_tag,contract management,fixture
+c00177,work_activity,Monitoring and Controlling Resources,fixture
+c00178,topic_tag,contract management,fixture
+c00178,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00179,topic_tag,procurement,fixture
+c00179,work_activity,Monitoring and Controlling Resources,fixture
+c00180,topic_tag,contract management,fixture
+c00180,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00181,topic_tag,budget,fixture
+c00181,topic_tag,contract management,fixture
+c00181,work_activity,Monitoring and Controlling Resources,fixture
+c00182,topic_tag,procurement,fixture
+c00182,topic_tag,contract management,fixture
+c00182,work_activity,Monitoring and Controlling Resources,fixture
+c00183,topic_tag,contract management,fixture
+c00183,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00184,topic_tag,procurement,fixture
+c00184,topic_tag,contract management,fixture
+c00184,work_activity,Monitoring and Controlling Resources,fixture
+c00185,topic_tag,contract management,fixture
+c00185,topic_tag,budget,fixture
+c00185,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00186,topic_tag,contract management,fixture
+c00186,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00187,topic_tag,procurement,fixture
+c00187,topic_tag,budget,fixture
+c00187,work_activity,Monitoring and Controlling Resources,fixture
+c00188,topic_tag,contract management,fixture
+c00188,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00189,topic_tag,procurement,fixture
+c00189,work_activity,Monitoring and Controlling Resources,fixture
+c00190,topic_tag,contract management,fixture
+c00190,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00191,topic_tag,procurement,fixture
+c00191,topic_tag,budget,fixture
+c00191,work_activity,Monitoring and Controlling Resources,fixture
+c00192,topic_tag,procurement,fixture
+c00192,work_activity,Monitoring and Controlling Resources,fixture
+c00193,topic_tag,contract management,fixture
+c00193,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00194,topic_tag,procurement,fixture
+c00194,topic_tag,budget,fixture
+c00194,work_activity,Monitoring and Controlling Resources,fixture
+c00195,topic_tag,procurement,fixture
+c00195,work_activity,Monitoring and Controlling Resources,fixture
+c00196,topic_tag,contract management,fixture
+c00196,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00197,topic_tag,procurement,fixture
+c00197,work_activity,Monitoring and Controlling Resources,fixture
+c00198,topic_tag,contract management,fixture
+c00198,topic_tag,budget,fixture
+c00198,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00199,topic_tag,contract management,fixture
+c00199,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00200,topic_tag,procurement,fixture
+c00200,work_activity,Monitoring and Controlling Resources,fixture
+c00201,topic_tag,contract management,fixture
+c00201,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00202,topic_tag,procurement,fixture
+c00202,work_activity,Monitoring and Controlling Resources,fixture
+c00203,topic_tag,contract management,fixture
+c00203,topic_tag,procurement,fixture
+c00203,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00204,topic_tag,contract management,fixture
+c00204,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00205,topic_tag,procurement,fixture
+c00205,work_activity,Monitoring and Controlling Resources,fixture
+c00206,topic_tag,contract management,fixture
+c00206,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00207,topic_tag,procurement,fixture
+c00207,topic_tag,contract management,fixture
+c00207,work_activity,Monitoring and Controlling Resources,fixture
+c00208,topic_tag,contract management,fixture
+c00208,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00209,topic_tag,contract management,fixture
+c00209,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00210,topic_tag,procurement,fixture
+c00210,work_activity,Monitoring and Controlling Resources,fixture
+c00211,topic_tag,contract management,fixture
+c00211,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00212,topic_tag,procurement,fixture
+c00212,topic_tag,contract management,fixture
+c00212,work_activity,Monitoring and Controlling Resources,fixture
+c00213,topic_tag,contract management,fixture
+c00213,topic_tag,budget,fixture
+c00213,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00214,topic_tag,contract management,fixture
+c00214,topic_tag,procurement,fixture
+c00214,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00215,topic_tag,procurement,fixture
+c00215,work_activity,Monitoring and Controlling Resources,fixture
+c00216,topic_tag,contract management,fixture
+c00216,topic_tag,procurement,fixture
+c00216,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00217,topic_tag,procurement,fixture
+c00217,topic_tag,contract management,fixture
+c00217,work_activity,Monitoring and Controlling Resources,fixture
+c00218,topic_tag,contract management,fixture
+c00218,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00219,topic_tag,contract management,fixture
+c00219,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00220,topic_tag,procurement,fixture
+c00220,topic_tag,contract management,fixture
+c00220,work_activity,Monitoring and Controlling Resources,fixture
+c00221,topic_tag,contract management,fixture
+c00221,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00222,topic_tag,procurement,fixture
+c00222,work_activity,Monitoring and Controlling Resources,fixture
+c00223,topic_tag,contract management,fixture
+c00223,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00224,topic_tag,budget,fixture
+c00224,work_activity,Monitoring and Controlling Resources,fixture
+c00225,topic_tag,procurement,fixture
+c00225,work_activity,Monitoring and Controlling Resources,fixture
+c00226,topic_tag,contract management,fixture
+c00226,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00227,topic_tag,contract management,fixture
+c00227,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00228,topic_tag,procurement,fixture
+c00228,work_activity,Monitoring and Controlling Resources,fixture
+c00229,topic_tag,contract management,fixture
+c00229,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00230,topic_tag,procurement,fixture
+c00230,work_activity,Monitoring and Controlling Resources,fixture
+c00231,topic_tag,contract management,fixture
+c00231,topic_tag,budget,fixture
+c00231,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00232,topic_tag,budget,fixture
+c00232,topic_tag,procurement,fixture
+c00232,work_activity,Monitoring and Controlling Resources,fixture
+c00233,topic_tag,procurement,fixture
+c00233,topic_tag,budget,fixture
+c00233,work_activity,Monitoring and Controlling Resources,fixture
+c00234,topic_tag,contract management,fixture
+c00234,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00235,topic_tag,procurement,fixture
+c00235,topic_tag,budget,fixture
+c00235,work_activity,Monitoring and Controlling Resources,fixture
+c00236,topic_tag,contract management,fixture
+c00236,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00237,topic_tag,budget,fixture
+c00237,work_activity,Monitoring and Controlling Resources,fixture
+c00238,topic_tag,procurement,fixture
+c00238,topic_tag,budget,fixture
+c00238,work_activity,Monitoring and Controlling Resources,fixture
+c00239,topic_tag,contract management,fixture
+c00239,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00240,topic_tag,procurement,fixture
+c00240,work_activity,Monitoring and Controlling Resources,fixture
+c00241,topic_tag,contract management,fixture
+c00241,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00242,topic_tag,contract management,fixture
+c00242,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00243,topic_tag,procurement,fixture
+c00243,topic_tag,contract management,fixture
+c00243,work_activity,Monitoring and Controlling Resources,fixture
+c00244,topic_tag,contract management,fixture
+c00244,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00245,topic_tag,procurement,fixture
+c00245,topic_tag,budget,fixture
+c00245,work_activity,Monitoring and Controlling Resources,fixture
+c00246,topic_tag,contract management,fixture
+c00246,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00247,topic_tag,budget,fixture
+c00247,work_activity,Monitoring and Controlling Resources,fixture
+c00248,topic_tag,procurement,fixture
+c00248,work_activity,Monitoring and Controlling Resources,fixture
+c00249,topic_tag,contract management,fixture
+c00249,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00250,topic_tag,procurement,fixture
+c00250,topic_tag,contract management,fixture
+c00250,work_activity,Monitoring and Controlling Resources,fixture
+c00251,topic_tag,procurement,fixture
+c00251,topic_tag,budget,fixture
+c00251,work_activity,Monitoring and Controlling Resources,fixture
+c00252,topic_tag,contract management,fixture
+c00252,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00253,topic_tag,procurement,fixture
+c00253,topic_tag,contract management,fixture
+c00253,work_activity,Monitoring and Controlling Resources,fixture
+c00254,topic_tag,contract management,fixture
+c00254,topic_tag,budget,fixture
+c00254,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00255,topic_tag,procurement,fixture
+c00255,topic_tag,contract management,fixture
+c00255,work_activity,Monitoring and Controlling Resources,fixture
+c00256,topic_tag,procurement,fixture
+c00256,topic_tag,budget,fixture
+c00256,work_activity,Monitoring and Controlling Resources,fixture
+c00257,topic_tag,contract management,fixture
+c00257,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00258,topic_tag,procurement,fixture
+c00258,topic_tag,budget,fixture
+c00258,work_activity,Monitoring and Controlling Resources,fixture
+c00259,topic_tag,contract management,fixture
+c00259,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00260,topic_tag,budget,fixture
+c00260,work_activity,Monitoring and Controlling Resources,fixture
+c00261,topic_tag,procurement,fixture
+c00261,topic_tag,budget,fixture
+c00261,work_activity,Monitoring and Controlling Resources,fixture
+c00262,topic_tag,contract management,fixture
+c00262,topic_tag,budget,fixture
+c00262,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00263,topic_tag,procurement,fixture
+c00263,work_activity,Monitoring and Controlling Resources,fixture
+c00264,topic_tag,contract management,fixture
+c00264,topic_tag,procurement,fixture
+c00264,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00265,topic_tag,contract management,fixture
+c00265,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00266,topic_tag,procurement,fixture
+c00266,topic_tag,contract management,fixture
+c00266,work_activity,Monitoring and Controlling Resources,fixture
+c00267,topic_tag,contract management,fixture
+c00267,topic_tag,procurement,fixture
+c00267,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00268,topic_tag,procurement,fixture
+c00268,work_activity,Monitoring and Controlling Resources,fixture
+c00269,topic_tag,contract management,fixture
+c00269,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00270,topic_tag,contract management,fixture
+c00270,topic_tag,procurement,fixture
+c00270,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00271,topic_tag,procurement,fixture
+c00271,topic_tag,contract management,fixture
+c00271,work_activity,Monitoring and Controlling Resources,fixture
+c00272,topic_tag,contract management,fixture
+c00272,topic_tag,budget,fixture
+c00272,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00273,topic_tag,procurement,fixture
+c00273,work_activity,Monitoring and Controlling Resources,fixture
+c00274,topic_tag,contract management,fixture
+c00274,topic_tag,procurement,fixture
+c00274,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00275,topic_tag,budget,fixture
+c00275,work_activity,Monitoring and Controlling Resources,fixture
+c00276,topic_tag,procurement,fixture
+c00276,work_activity,Monitoring and Controlling Resources,fixture
+c00277,topic_tag,contract management,fixture
+c00277,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00278,topic_tag,procurement,fixture
+c00278,work_activity,Monitoring and Controlling Resources,fixture
+c00279,topic_tag,contract management,fixture
+c00279,topic_tag,budget,fixture
+c00279,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00280,topic_tag,contract management,fixture
+c00280,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00281,topic_tag,procurement,fixture
+c00281,topic_tag,contract management,fixture
+c00281,work_activity,Monitoring and Controlling Resources,fixture
+c00282,topic_tag,contract management,fixture
+c00282,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00283,topic_tag,contract management,fixture
+c00283,topic_tag,procurement,fixture
+c00283,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00284,topic_tag,procurement,fixture
+c00284,work_activity,Monitoring and Controlling Resources,fixture
+c00285,topic_tag,contract management,fixture
+c00285,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00286,topic_tag,procurement,fixture
+c00286,work_activity,Monitoring and Controlling Resources,fixture
+c00287,topic_tag,contract management,fixture
+c00287,topic_tag,procurement,fixture
+c00287,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00288,topic_tag,contract management,fixture
+c00288,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00289,topic_tag,procurement,fixture
+c00289,work_activity,Monitoring and Controlling Resources,fixture
+c00290,topic_tag,contract management,fixture
+c00290,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00291,topic_tag,procurement,fixture
+c00291,work_activity,Monitoring and Controlling Resources,fixture
+c00292,topic_tag,contract management,fixture
+c00292,topic_tag,budget,fixture
+c00292,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00293,topic_tag,procurement,fixture
+c00293,work_activity,Monitoring and Controlling Resources,fixture
+c00294,topic_tag,procurement,fixture
+c00294,work_activity,Monitoring and Controlling Resources,fixture
+c00295,topic_tag,contract management,fixture
+c00295,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00296,topic_tag,procurement,fixture
+c00296,topic_tag,contract management,fixture
+c00296,work_activity,Monitoring and Controlling Resources,fixture
+c00297,topic_tag,contract management,fixture
+c00297,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00298,topic_tag,budget,fixture
+c00298,work_activity,Monitoring and Controlling Resources,fixture
+c00299,topic_tag,procurement,fixture
+c00299,work_activity,Monitoring and Controlling Resources,fixture
+c00300,topic_tag,contract management,fixture
+c00300,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00301,topic_tag,procurement,fixture
+c00301,work_activity,Monitoring and Controlling Resources,fixture
+c00302,topic_tag,contract management,fixture
+c00302,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00303,topic_tag,budget,fixture
+c00303,work_activity,Monitoring and Controlling Resources,fixture
+c00304,topic_tag,procurement,fixture
+c00304,topic_tag,contract management,fixture
+c00304,work_activity,Monitoring and Controlling Resources,fixture
+c00305,topic_tag,contract management,fixture
+c00305,topic_tag,budget,fixture
+c00305,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00306,topic_tag,contract management,fixture
+c00306,topic_tag,procurement,fixture
+c00306,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00307,topic_tag,procurement,fixture
+c00307,topic_tag,budget,fixture
+c00307,work_activity,Monitoring and Controlling Resources,fixture
+c00308,topic_tag,contract management,fixture
+c00308,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00309,topic_tag,procurement,fixture
+c00309,work_activity,Monitoring and Controlling Resources,fixture
+c00310,topic_tag,contract management,fixture
+c00310,topic_tag,budget,fixture
+c00310,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00311,topic_tag,budget,fixture
+c00311,work_activity,Monitoring and Controlling Resources,fixture
+c00312,topic_tag,procurement,fixture
+c00312,topic_tag,budget,fixture
+c00312,work_activity,Monitoring and Controlling Resources,fixture
+c00313,topic_tag,contract management,fixture
+c00313,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00314,topic_tag,procurement,fixture
+c00314,work_activity,Monitoring and Controlling Resources,fixture
+c00315,topic_tag,contract management,fixture
+c00315,topic_tag,procurement,fixture
+c00315,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00316,topic_tag,procurement,fixture
+c00316,work_activity,Monitoring and Controlling Resources,fixture
+c00317,topic_tag,procurement,fixture
+c00317,topic_tag,budget,fixture
+c00317,work_activity,Monitoring and Controlling Resources,fixture
+c00318,topic_tag,contract management,fixture
+c00318,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00319,topic_tag,procurement,fixture
+c00319,work_activity,Monitoring and Controlling Resources,fixture
+c00320,topic_tag,contract management,fixture
+c00320,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00321,topic_tag,budget,fixture
+c00321,topic_tag,contract management,fixture
+c00321,work_activity,Monitoring and Controlling Resources,fixture
+c00322,topic_tag,procurement,fixture
+c00322,work_activity,Monitoring and Controlling Resources,fixture
+c00323,topic_tag,contract management,fixture
+c00323,topic_tag,procurement,fixture
+c00323,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00324,topic_tag,procurement,fixture
+c00324,topic_tag,budget,fixture
+c00324,work_activity,Monitoring and Controlling Resources,fixture
+c00325,topic_tag,contract management,fixture
+c00325,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00326,topic_tag,procurement,fixture
+c00326,work_activity,Monitoring and Controlling Resources,fixture
+c00327,topic_tag,procurement,fixture
+c00327,work_activity,Monitoring and Controlling Resources,fixture
+c00328,topic_tag,contract management,fixture
+c00328,topic_tag,procurement,fixture
+c00328,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00329,topic_tag,procurement,fixture
+c00329,work_activity,Monitoring and Controlling Resources,fixture
+c00330,topic_tag,contract management,fixture
+c00330,topic_tag,budget,fixture
+c00330,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00331,topic_tag,contract management,fixture
+c00331,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00332,topic_tag,procurement,fixture
+c00332,topic_tag,contract management,fixture
+c00332,work_activity,Monitoring and Controlling Resources,fixture
+c00333,topic_tag,contract management,fixture
+c00333,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00334,topic_tag,procurement,fixture
+c00334,work_activity,Monitoring and Controlling Resources,fixture
+c00335,topic_tag,contract management,fixture
+c00335,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00336,topic_tag,procurement,fixture
+c00336,topic_tag,budget,fixture
+c00336,work_activity,Monitoring and Controlling Resources,fixture
+c00337,topic_tag,policy,fixture
+c00337,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00338,topic_tag,communication,fixture
+c00338,topic_tag,training,fixture
+c00338,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00339,topic_tag,training,fixture
+c00339,work_activity,Training and Teaching Others,fixture
+c00340,topic_tag,policy,fixture
+c00340,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00341,topic_tag,communication,fixture
+c00341,topic_tag,training,fixture
+c00341,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00342,topic_tag,policy,fixture
+c00342,topic_tag,training,fixture
+c00342,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00343,topic_tag,communication,fixture
+c00343,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00344,topic_tag,policy,fixture
+c00344,topic_tag,communication,fixture
+c00344,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00345,topic_tag,policy,fixture
+c00345,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00346,topic_tag,communication,fixture
+c00346,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00347,topic_tag,policy,fixture
+c00347,topic_tag,communication,fixture
+c00347,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00348,topic_tag,communication,fixture
+c00348,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00349,topic_tag,policy,fixture
+c00349,topic_tag,communication,fixture
+c00349,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00350,topic_tag,policy,fixture
+c00350,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00351,topic_tag,communication,fixture
+c00351,topic_tag,training,fixture
+c00351,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00352,topic_tag,policy,fixture
+c00352,topic_tag,training,fixture
+c00352,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00353,topic_tag,communication,fixture
+c00353,topic_tag,training,fixture
+c00353,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00354,topic_tag,training,fixture
+c00354,topic_tag,communication,fixture
+c00354,work_activity,Training and Teaching Others,fixture
+c00355,topic_tag,policy,fixture
+c00355,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00356,topic_tag,communication,fixture
+c00356,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00357,topic_tag,policy,fixture
+c00357,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00358,topic_tag,communication,fixture
+c00358,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00359,topic_tag,training,fixture
+c00359,work_activity,Training and Teaching Others,fixture
+c00360,topic_tag,policy,fixture
+c00360,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00361,topic_tag,communication,fixture
+c00361,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00362,topic_tag,training,fixture
+c00362,work_activity,Training and Teaching Others,fixture
+c00363,topic_tag,policy,fixture
+c00363,topic_tag,communication,fixture
+c00363,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00364,topic_tag,communication,fixture
+c00364,topic_tag,training,fixture
+c00364,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00365,topic_tag,policy,fixture
+c00365,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00366,topic_tag,communication,fixture
+c00366,topic_tag,training,fixture
+c00366,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00367,topic_tag,communication,fixture
+c00367,topic_tag,training,fixture
+c00367,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00368,topic_tag,policy,fixture
+c00368,topic_tag,training,fixture
+c00368,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00369,topic_tag,communication,fixture
+c00369,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00370,topic_tag,policy,fixture
+c00370,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00371,topic_tag,communication,fixture
+c00371,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00372,topic_tag,communication,fixture
+c00372,topic_tag,training,fixture
+c00372,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00373,topic_tag,policy,fixture
+c00373,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00374,topic_tag,communication,fixture
+c00374,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00375,topic_tag,policy,fixture
+c00375,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00376,topic_tag,communication,fixture
+c00376,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00377,topic_tag,policy,fixture
+c00377,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00378,topic_tag,policy,fixture
+c00378,topic_tag,training,fixture
+c00378,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00379,topic_tag,communication,fixture
+c00379,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00380,topic_tag,policy,fixture
+c00380,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00381,topic_tag,communication,fixture
+c00381,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00382,topic_tag,policy,fixture
+c00382,topic_tag,training,fixture
+c00382,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00383,topic_tag,policy,fixture
+c00383,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00384,topic_tag,communication,fixture
+c00384,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00385,topic_tag,policy,fixture
+c00385,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00386,topic_tag,communication,fixture
+c00386,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00387,topic_tag,communication,fixture
+c00387,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00388,topic_tag,policy,fixture
+c00388,topic_tag,communication,fixture
+c00388,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00389,topic_tag,communication,fixture
+c00389,topic_tag,policy,fixture
+c00389,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00390,topic_tag,policy,fixture
+c00390,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00391,topic_tag,communication,fixture
+c00391,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00392,topic_tag,policy,fixture
+c00392,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00393,topic_tag,policy,fixture
+c00393,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00394,topic_tag,communication,fixture
+c00394,topic_tag,training,fixture
+c00394,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00395,topic_tag,training,fixture
+c00395,topic_tag,policy,fixture
+c00395,work_activity,Training and Teaching Others,fixture
+c00396,topic_tag,policy,fixture
+c00396,topic_tag,communication,fixture
+c00396,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00397,topic_tag,communication,fixture
+c00397,topic_tag,training,fixture
+c00397,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00398,topic_tag,policy,fixture
+c00398,topic_tag,communication,fixture
+c00398,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00399,topic_tag,communication,fixture
+c00399,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00400,topic_tag,training,fixture
+c00400,work_activity,Training and Teaching Others,fixture
+c00401,topic_tag,policy,fixture
+c00401,topic_tag,communication,fixture
+c00401,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00402,topic_tag,communication,fixture
+c00402,topic_tag,policy,fixture
+c00402,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00403,topic_tag,policy,fixture
+c00403,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00404,topic_tag,communication,fixture
+c00404,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00405,topic_tag,communication,fixture
+c00405,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00406,topic_tag,policy,fixture
+c00406,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00407,topic_tag,communication,fixture
+c00407,topic_tag,policy,fixture
+c00407,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00408,topic_tag,policy,fixture
+c00408,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00409,topic_tag,communication,fixture
+c00409,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00410,topic_tag,policy,fixture
+c00410,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00411,topic_tag,policy,fixture
+c00411,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00412,topic_tag,communication,fixture
+c00412,topic_tag,training,fixture
+c00412,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00413,topic_tag,policy,fixture
+c00413,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00414,topic_tag,communication,fixture
+c00414,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00415,topic_tag,communication,fixture
+c00415,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00416,topic_tag,policy,fixture
+c00416,topic_tag,communication,fixture
+c00416,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00417,topic_tag,communication,fixture
+c00417,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00418,topic_tag,training,fixture
+c00418,work_activity,Training and Teaching Others,fixture
+c00419,topic_tag,policy,fixture
+c00419,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00420,topic_tag,communication,fixture
+c00420,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00421,topic_tag,policy,fixture
+c00421,topic_tag,communication,fixture
+c00421,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00422,topic_tag,communication,fixture
+c00422,topic_tag,training,fixture
+c00422,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00423,topic_tag,communication,fixture
+c00423,topic_tag,training,fixture
+c00423,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00424,topic_tag,policy,fixture
+c00424,topic_tag,communication,fixture
+c00424,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00425,topic_tag,communication,fixture
+c00425,topic_tag,policy,fixture
+c00425,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00426,topic_tag,policy,fixture
+c00426,topic_tag,training,fixture
+c00426,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00427,topic_tag,communication,fixture
+c00427,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00428,topic_tag,communication,fixture
+c00428,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00429,topic_tag,policy,fixture
+c00429,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00430,topic_tag,communication,fixture
+c00430,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00431,topic_tag,policy,fixture
+c00431,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00432,topic_tag,communication,fixture
+c00432,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00433,topic_tag,training,fixture
+c00433,topic_tag,policy,fixture
+c00433,work_activity,Training and Teaching Others,fixture
+c00434,topic_tag,policy,fixture
+c00434,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00435,topic_tag,communication,fixture
+c00435,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00436,topic_tag,policy,fixture
+c00436,topic_tag,communication,fixture
+c00436,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00437,topic_tag,communication,fixture
+c00437,topic_tag,training,fixture
+c00437,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00438,topic_tag,communication,fixture
+c00438,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00439,topic_tag,policy,fixture
+c00439,topic_tag,training,fixture
+c00439,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00440,topic_tag,communication,fixture
+c00440,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00441,topic_tag,policy,fixture
+c00441,topic_tag,communication,fixture
+c00441,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00442,topic_tag,communication,fixture
+c00442,topic_tag,training,fixture
+c00442,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00443,topic_tag,training,fixture
+c00443,work_activity,Training and Teaching Others,fixture
+c00444,topic_tag,policy,fixture
+c00444,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00445,topic_tag,communication,fixture
+c00445,topic_tag,training,fixture
+c00445,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00446,topic_tag,policy,fixture
+c00446,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00447,topic_tag,communication,fixture
+c00447,topic_tag,training,fixture
+c00447,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00448,topic_tag,communication,fixture
+c00448,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00449,topic_tag,policy,fixture
+c00449,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00450,topic_tag,communication,fixture
+c00450,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00451,topic_tag,communication,fixture
+c00451,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00452,topic_tag,policy,fixture
+c00452,topic_tag,training,fixture
+c00452,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00453,topic_tag,communication,fixture
+c00453,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00454,topic_tag,policy,fixture
+c00454,topic_tag,training,fixture
+c00454,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00455,topic_tag,communication,fixture
+c00455,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00456,topic_tag,training,fixture
+c00456,work_activity,Training and Teaching Others,fixture
+c00457,topic_tag,policy,fixture
+c00457,topic_tag,communication,fixture
+c00457,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00458,topic_tag,communication,fixture
+c00458,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00459,topic_tag,policy,fixture
+c00459,topic_tag,training,fixture
+c00459,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00460,topic_tag,communication,fixture
+c00460,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00461,topic_tag,communication,fixture
+c00461,topic_tag,policy,fixture
+c00461,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00462,topic_tag,policy,fixture
+c00462,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00463,topic_tag,communication,fixture
+c00463,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00464,topic_tag,policy,fixture
+c00464,topic_tag,communication,fixture
+c00464,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00465,topic_tag,communication,fixture
+c00465,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00466,topic_tag,training,fixture
+c00466,work_activity,Training and Teaching Others,fixture
+c00467,topic_tag,policy,fixture
+c00467,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00468,topic_tag,communication,fixture
+c00468,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00469,topic_tag,policy,fixture
+c00469,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00470,topic_tag,communication,fixture
+c00470,topic_tag,training,fixture
+c00470,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00471,topic_tag,training,fixture
+c00471,work_activity,Training and Teaching Others,fixture
+c00472,topic_tag,policy,fixture
+c00472,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00473,topic_tag,communication,fixture
+c00473,topic_tag,policy,fixture
+c00473,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00474,topic_tag,communication,fixture
+c00474,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00475,topic_tag,policy,fixture
+c00475,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00476,topic_tag,communication,fixture
+c00476,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00477,topic_tag,policy,fixture
+c00477,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00478,topic_tag,communication,fixture
+c00478,topic_tag,policy,fixture
+c00478,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00479,topic_tag,training,fixture
+c00479,topic_tag,policy,fixture
+c00479,work_activity,Training and Teaching Others,fixture
+c00480,topic_tag,policy,fixture
+c00480,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00481,topic_tag,communication,fixture
+c00481,topic_tag,training,fixture
+c00481,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00482,topic_tag,policy,fixture
+c00482,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00483,topic_tag,communication,fixture
+c00483,topic_tag,policy,fixture
+c00483,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00484,topic_tag,policy,fixture
+c00484,topic_tag,training,fixture
+c00484,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00485,topic_tag,policy,fixture
+c00485,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00486,topic_tag,communication,fixture
+c00486,topic_tag,training,fixture
+c00486,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00487,topic_tag,policy,fixture
+c00487,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00488,topic_tag,communication,fixture
+c00488,topic_tag,training,fixture
+c00488,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00489,topic_tag,training,fixture
+c00489,work_activity,Training and Teaching Others,fixture
+c00490,topic_tag,policy,fixture
+c00490,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00491,topic_tag,communication,fixture
+c00491,topic_tag,policy,fixture
+c00491,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00492,topic_tag,policy,fixture
+c00492,topic_tag,communication,fixture
+c00492,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00493,topic_tag,communication,fixture
+c00493,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00494,topic_tag,communication,fixture
+c00494,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00495,topic_tag,policy,fixture
+c00495,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00496,topic_tag,communication,fixture
+c00496,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00497,topic_tag,policy,fixture
+c00497,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00498,topic_tag,communication,fixture
+c00498,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00499,topic_tag,policy,fixture
+c00499,topic_tag,communication,fixture
+c00499,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00500,topic_tag,policy,fixture
+c00500,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00501,topic_tag,communication,fixture
+c00501,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00502,topic_tag,policy,fixture
+c00502,work_activity,Evaluating Information to Determine Compliance with Standards,fixture
+c00503,topic_tag,communication,fixture
+c00503,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
+c00504,topic_tag,communication,fixture
+c00504,work_activity,"Communicating with Supervisors, Peers, or Subordinates",fixture
