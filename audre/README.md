@@ -177,6 +177,21 @@ They do **not** identify a user's occupation, grade, or responsibilities.
 ## Testing
 
 ```bash
-python -m pytest              # 75 tests
+python -m pytest                         # 77 tests
 python tests/fixtures/make_fixtures.py   # regenerate fixtures
 ```
+
+## License
+
+[CC0 1.0 Universal](../LICENSE) — public domain dedication. Use, modify, and
+redistribute freely, including commercially, without permission or attribution.
+No trademark or patent rights are waived; provided as-is without warranty.
+
+Attribution is not required but is appreciated for academic reuse. This package
+accompanies a methods contribution submitted to a NeurIPS workshop; citation
+details will be added once the submission status is resolved.
+
+Note that the bundled `taxonomies/default.yaml` reproduces category names from
+published occupational classifications (O\*NET work activities and SOC major
+groups), which are U.S. Government works in the public domain. CC0 applies to
+this package's own code and data files.
