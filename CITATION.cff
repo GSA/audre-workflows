@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+title: AUDRE
+abstract: >-
+  AUDRE (Analyzing Usage, Depth, Resource intensity, and Engagement) is a
+  reproducible, privacy-aware pipeline for turning enterprise generative-AI chat
+  telemetry into context-specific usage representations and candidate workflow
+  hypotheses.
+type: software
+license: CC0-1.0
+repository-code: https://github.com/GSA/audre-workflows
+keywords:
+  - generative artificial intelligence
+  - enterprise telemetry
+  - workflow analysis
+  - network analysis
+  - privacy
+  - public sector
+
+authors:
+  - given-names: Perla
+    family-names: Molina
+    email: perlam@stanford.edu
+    affiliation: Stanford University
+  - given-names: Isabel
+    family-names: Metzger
+    email: isabel.metzger@gsa.gov
+    affiliation: U.S. General Services Administration
+  - given-names: Zachary
+    family-names: Whitman
+    email: zach.whitman@gsa.gov
+    affiliation: U.S. General Services Administration
+  - given-names: Richard
+    family-names: Speidel
+    email: richard.speidel@gsa.gov
+    affiliation: U.S. General Services Administration
+
+# Cite the paper rather than the software. The CFF specification only permits
+# `software` or `dataset` as the top-level type, so a paper cannot be the root
+# object; `preferred-citation` is the mechanism that redirects citation tools
+# (including GitHub's "Cite this repository") to the publication.
+message: >-
+  If you use this software, please cite the accompanying paper (see
+  preferred-citation below).
+
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Stable Counts, Shifting Signals: A Longitudinal Stress Test of Enterprise
+    GenAI Telemetry
+  authors:
+    - given-names: Perla
+      family-names: Molina
+      affiliation: Stanford University
+    - given-names: Isabel
+      family-names: Metzger
+      affiliation: U.S. General Services Administration
+    - given-names: Zachary
+      family-names: Whitman
+      affiliation: U.S. General Services Administration
+    - given-names: Richard
+      family-names: Speidel
+      affiliation: U.S. General Services Administration
+  year: 2026
+  month: 12
+  conference:
+    name: >-
+      LXAI Research Workshop at the 40th Conference on Neural Information
+      Processing Systems (NeurIPS 2026)
+  url: https://github.com/GSA/audre-workflows
