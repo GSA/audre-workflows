@@ -20,8 +20,8 @@ If you use this code, please cite the accompanying paper:
 
 > Molina, P., Metzger, I., Whitman, Z., & Speidel, R. (2026). Stable Counts,
 > Shifting Signals: A Longitudinal Stress Test of Enterprise GenAI Telemetry.
-> *LatinX in AI (LXAI) Research Workshop at the 40th Conference on Neural
-> Information Processing Systems (NeurIPS 2026).*
+> *LXAI Research Workshop at the 40th Conference on Neural Information
+> Processing Systems (NeurIPS 2026).*
 
 ```bibtex
 @inproceedings{molina2026stable,
@@ -29,8 +29,8 @@ If you use this code, please cite the accompanying paper:
                Enterprise GenAI Telemetry},
   author    = {Molina, Perla and Metzger, Isabel and Whitman, Zachary and
                Speidel, Richard},
-  booktitle = {LatinX in AI (LXAI) Research Workshop at the 40th Conference on
-               Neural Information Processing Systems (NeurIPS 2026)},
+  booktitle = {LXAI Research Workshop at the 40th Conference on Neural
+               Information Processing Systems (NeurIPS 2026)},
   year      = {2026},
   month     = {12},
   url       = {https://github.com/GSA/audre-workflows}
