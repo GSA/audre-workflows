@@ -14,6 +14,32 @@ AUDRE is intended for descriptive measurement and evaluation prioritization. It 
 - Zachary Whitman (zach.whitman@gsa.gov), GSA Chief AI Officer/ Chief Data Officer
 - Richard Speidel (richard.speidel@gsa.gov), GSA Chief Privacy Officer / Deputy Chief Data Officer
 
+## Citing this work
+
+If you use this code, please cite the accompanying paper:
+
+> Molina, P., Metzger, I., Whitman, Z., & Speidel, R. (2026). Stable Counts,
+> Shifting Signals: A Longitudinal Stress Test of Enterprise GenAI Telemetry.
+> *LatinX in AI (LXAI) Research Workshop at the 40th Conference on Neural
+> Information Processing Systems (NeurIPS 2026).*
+
+```bibtex
+@inproceedings{molina2026stable,
+  title     = {Stable Counts, Shifting Signals: A Longitudinal Stress Test of
+               Enterprise GenAI Telemetry},
+  author    = {Molina, Perla and Metzger, Isabel and Whitman, Zachary and
+               Speidel, Richard},
+  booktitle = {LatinX in AI (LXAI) Research Workshop at the 40th Conference on
+               Neural Information Processing Systems (NeurIPS 2026)},
+  year      = {2026},
+  month     = {12},
+  url       = {https://github.com/GSA/audre-workflows}
+}
+```
+
+[`CITATION.cff`](CITATION.cff) carries the same metadata in machine-readable
+form and drives GitHub's **Cite this repository** button.
+
 ## License
 
 [CC0 1.0 Universal](LICENSE) — public domain dedication.

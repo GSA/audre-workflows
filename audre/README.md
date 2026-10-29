@@ -187,9 +187,12 @@ python tests/fixtures/make_fixtures.py   # regenerate fixtures
 redistribute freely, including commercially, without permission or attribution.
 No trademark or patent rights are waived; provided as-is without warranty.
 
-Attribution is not required but is appreciated for academic reuse. This package
-accompanies a methods contribution submitted to a NeurIPS workshop; citation
-details will be added once the submission status is resolved.
+Attribution is not required by the license, but is appreciated for academic
+reuse. See [`CITATION.cff`](../CITATION.cff) and the
+[Citing this work](../README.md#citing-this-work) section for the paper to cite:
+Molina, Metzger, Whitman & Speidel (2026), *Stable Counts, Shifting Signals: A
+Longitudinal Stress Test of Enterprise GenAI Telemetry*, LatinX in AI Research
+Workshop at NeurIPS 2026.
 
 Note that the bundled `taxonomies/default.yaml` reproduces category names from
 published occupational classifications (O\*NET work activities and SOC major
